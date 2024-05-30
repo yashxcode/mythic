@@ -33,9 +33,11 @@ const Navbar = () => {
             className="cursor-pointer z-10"
           />
         </Link>
-        <p className="p-4 font-semibold hover:text-[#9147ff] cursor-pointer">
-          Browse
-        </p>
+        <Link href="/">
+          <p className="p-4 font-semibold hover:text-[#9147ff] cursor-pointer">
+            Browse
+          </p>
+        </Link>
         <div className="p-4">
           <Menu as="div" className="relative text-left">
             <div className="flex">
