@@ -2,6 +2,10 @@
 
 Mythic is a project aimed at creating a modern web application which imitates the popular live-streaming platform, Twitch, using cutting-edge web development technologies. Built with Next.js, JavaScript, Tailwind CSS, NextAuth.js, and Headless UI.
 
+**Live Demo**
+
+Try out Mythic live: [Mythic App](https://mythic-zeta.vercel.app/)
+
 **Features:**
 
 - **Next.js with Tailwind CSS:** Mythic leverages the power of Next.js for efficient server-side rendering and routing, coupled with the flexibility and utility-first approach of Tailwind CSS for styling.
